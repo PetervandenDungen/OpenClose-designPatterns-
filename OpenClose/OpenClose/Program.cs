@@ -1,5 +1,5 @@
 ﻿using OpenClose.Classes;
-using OpenClose.Repository;
+using OpenClose.Repositories;
 using OpenClose.Services.Implementations;
 using OpenClose.Services.Implementations.Specifications;
 using System;
